@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 24px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    background-color: yellow;
+    padding: 8px;
+    border: 3px solid black;
+    width: 500px;
+    margin: 8px auto;
+}
+
+li {
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid lightblue;
+}
+
+a {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    background-color: orange;
+    border: 3px solid black;
+    padding: 8px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+ul, ol {
+    padding: 8px;
+    border: 3px solid white;
+    background-color: white;
+    width: auto;
+}
+
+img {
+    width: 300px;
+    border: 3px solid white;
+    padding: 8px;
+    margin: 6px auto;
+    display: block;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    border: 3px solid red;
+    background-color: pink;
+}
